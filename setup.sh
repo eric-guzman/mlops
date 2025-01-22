@@ -30,7 +30,7 @@ az extension add -n ml -y
 #RESOURCE_GROUP_NAME="cloudml"
 GROUP="greatlearninggroupai"
 LOCATION="eastus"
-WORKSPACE="greatlearningml"
+WORKSPACE="mlgreatlearning"
 # </set_variables>
 
 
